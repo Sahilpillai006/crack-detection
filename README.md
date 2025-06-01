@@ -134,7 +134,6 @@ Want better accuracy? Try:
 ## 👨‍💻 Author
 
 Sahil
-Engineer | Robotics & AI Enthusiast 
-Let’s detect cracks before they break the system.
 
+Engineer | Robotics & AI Enthusiast 
 --------------------------------------------------
