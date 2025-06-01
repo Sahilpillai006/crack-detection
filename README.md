@@ -133,7 +133,6 @@ Want better accuracy? Try:
 
 ## 👨‍💻 Author
 
-Sahil
-
+**Sahil**
 Engineer | Robotics & AI Enthusiast 
 --------------------------------------------------
