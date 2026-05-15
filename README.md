@@ -135,7 +135,6 @@ Want better accuracy? Try:
 
 **Sahil B Pillai**  
 Engineer | Robotics & AI Enthusiast  
-[LinkedIn](your-linkedin-url) | [GitHub](https://github.com/Sahilpillai006)
 
 ---
 
