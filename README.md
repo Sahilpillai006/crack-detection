@@ -131,9 +131,14 @@ Want better accuracy? Try:
 
 --------------------------------------------------
 
-## 👨‍💻 Author
+## 🧑‍💻 Author
 
-**Sahil**
+**Sahil B Pillai**  
+Engineer | Robotics & AI Enthusiast  
+[LinkedIn](your-linkedin-url) | [GitHub](https://github.com/Sahilpillai006)
 
-Engineer | Robotics & AI Enthusiast 
---------------------------------------------------
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
